@@ -11,7 +11,7 @@ body
 
 #cabecera
 {
-    background: #37488b;
+    background: #8115ac;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
     color: #ddd;
     font-weight: bold;
@@ -21,7 +21,7 @@ body
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 30px;
     vertical-align: middle;
 }
 
