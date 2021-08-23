@@ -6,5 +6,6 @@
 
 * creado por una fan para fans
 * si necesitas alguna build me debes decir directamente
+* aparte tambien tengo consejos de armas si estas interesado/a tambien puedes escribirme
 
 ### Por cierto soy main Razor, viva los personajes electros vamos consigue el tuyo tambien.
