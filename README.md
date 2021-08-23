@@ -4,4 +4,6 @@
 
 ### Proximamente sera su banner y tengo varias protogemas y deseos ahorrados, pero... sera suficiente para poder obtener a mi gran shogun, quedate para averiguarlo.
 
+*creado por una fan para fans
+
 ### Por cierto soy main Razor, viva los personajes electros vamos consigue el tuyo tambien.
